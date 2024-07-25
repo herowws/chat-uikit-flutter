@@ -405,7 +405,7 @@
     },
     {
       "name": "flutter_plugin_record_plus",
-      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/flutter_plugin_record_plus-0.0.16",
+      "rootUri": "file:///Users/forrest/.pub-cache/git/flutter_plugin_record_plus-1e1962e9182d6a50e6cb65e2cf505d809df4d5d9/",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -567,21 +567,21 @@
     },
     {
       "name": "just_audio",
-      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/just_audio-0.9.34",
+      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/just_audio-0.9.39",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "just_audio_platform_interface",
-      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/just_audio_platform_interface-4.2.1",
+      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/just_audio_platform_interface-4.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.17"
     },
     {
       "name": "just_audio_web",
-      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/just_audio_web-0.4.8",
+      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/just_audio_web-0.4.11",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.2"
     },
     {
       "name": "link_preview_generator_for_us",
@@ -944,6 +944,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "sprintf",
+      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sqflite",
       "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/sqflite-2.2.8+4",
       "packageUri": "lib/",
@@ -1125,9 +1131,9 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/uuid-3.0.7",
+      "rootUri": "file:///Users/forrest/.pub-cache/hosted/pub.dev/uuid-4.4.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "vector_graphics",
@@ -1262,7 +1268,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-07-25T07:35:04.942084Z",
+  "generated": "2024-07-25T07:58:35.401238Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///Users/forrest/env/flutter-sdks/flutter3.22.2",
